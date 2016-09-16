@@ -4,6 +4,7 @@
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
         <item name="colorPrimary">#76FF03</item>
+        <item name="titleTextColor">#E65100</item>
         <item name="colorButtonNormal">#76FF03</item>
     </style>
 
